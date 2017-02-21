@@ -1,0 +1,14 @@
+com\online_shop\service\CustomerService.class
+com\online_shop\model\Customer.class
+com\online_shop\model\Product.class
+com\online_shop\configuration\AppConfig.class
+com\online_shop\model\Order.class
+com\online_shop\service\ProductService.class
+com\online_shop\configuration\DatabaseConfig.class
+com\online_shop\DTO\OrderDTO.class
+com\online_shop\configuration\WebApplicationInitializer.class
+com\online_shop\repository\CustomerRepository.class
+com\online_shop\controller\MainController.class
+com\online_shop\service\OrderService.class
+com\online_shop\repository\OrderRepository.class
+com\online_shop\repository\ProductRepository.class

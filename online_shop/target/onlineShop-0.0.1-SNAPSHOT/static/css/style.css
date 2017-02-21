@@ -1,0 +1,43 @@
+body{
+	overflow-y:scroll;
+	overflow-x:hidden; 
+}
+h2{
+	color:green;
+	font-family: fantasy;
+	font-style: italic;
+	
+}
+h1 {
+	color:blue;
+	text-align: center;
+	font-family: cursive;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+h3{
+	font-family: sans-serif;
+	color: green;
+	text-align: center;
+}
+p,a{
+	text-align: center;
+	color: red;
+}
+h5{
+	color: purple;
+}
+.menu {
+	border :2px;
+	border-color: navy;
+	border-style: solid;
+}
+
+.down{
+	margin-top: 50px;
+}
+.well {
+	margin-bottom: 0px;
+	margin-top: 150px;
+}

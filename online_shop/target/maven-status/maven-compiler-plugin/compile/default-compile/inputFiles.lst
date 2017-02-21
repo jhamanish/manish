@@ -1,0 +1,14 @@
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\service\CustomerService.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\configuration\AppConfig.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\repository\ProductRepository.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\model\Order.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\DTO\OrderDTO.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\configuration\WebApplicationInitializer.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\service\OrderService.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\model\Customer.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\service\ProductService.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\model\Product.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\repository\CustomerRepository.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\repository\OrderRepository.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\configuration\DatabaseConfig.java
+D:\Projects\SpringProjects\online_shop\src\com\online_shop\controller\MainController.java
